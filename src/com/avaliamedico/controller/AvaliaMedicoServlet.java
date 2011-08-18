@@ -43,7 +43,8 @@ public class AvaliaMedicoServlet extends HttpServlet {
 				//BufferedReader rd = new BufferedReader(new InputStreamReader(url.openStream()));
 				String line;
 				while ((line = rd.readLine()) != null) {
-					content.append(line + "\n");
+					content.append(line);
+					content.append("\n");
 				}
 				wr.close();
 				rd.close();
