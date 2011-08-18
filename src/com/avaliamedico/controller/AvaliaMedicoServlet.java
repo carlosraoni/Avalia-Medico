@@ -26,7 +26,7 @@ public class AvaliaMedicoServlet extends HttpServlet {
 			try {
 
 				// Construct data
-				String data = URLEncoder.encode("estado", "UTF-8") + "=" + URLEncoder.encode("CE", "UTF-8");
+				String data = URLEncoder.encode("estado", "UTF-8") + "=" + URLEncoder.encode("AC", "UTF-8");
 				data += "&" + URLEncoder.encode("method", "UTF-8") + "=" + URLEncoder.encode("buscar", "UTF-8");
 
 				// Send data

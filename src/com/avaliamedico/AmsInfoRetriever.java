@@ -8,7 +8,7 @@ import com.avaliamedico.extractor.ams.AmsInternetHtmlInformationExtractor;
 import com.avaliamedico.formatter.HealthCareProvidersJSONFormatter;
 import com.avaliamedico.formatter.HealthCareProvidersToStringFormatter;
 import com.avaliamedico.model.HealthCareProvider;
-import com.avaliamedico.model.State;
+import com.avaliamedico.model.BrazilState;
 import com.avaliamedico.parser.ams.AmsHealthCareProvidersHtmlParser;
 
 public class AmsInfoRetriever {
@@ -30,7 +30,7 @@ public class AmsInfoRetriever {
 	 */
 	public static void main(String[] args) throws InterruptedException {
 		System.out.println("Obtendo as informações da AMS ---------------------");
-		for(State state: State.values()){
+		for(BrazilState state: BrazilState.values()){
 			AmsInternetHtmlInformationExtractor extractor = new AmsInternetHtmlInformationExtractor(state.toString());
 			String filePath = "/home/raoni/Downloads/ams/ams-" + state;
 			System.out.println("Obtendo Informações do estado: " + state);
