@@ -1,0 +1,559 @@
+#################### Obtendo informações dos credenciados da AMS ####################
+Data Início: Segunda-feira, 22 de Agosto de 2011 - 22:44:37
+
+Requisitando informações dos credenciados da AMS do estado do AC a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição AC = 20.471s
+Parseando html recuperado ...
+RIO BRANCO
+Gerando arquivo JSON com as informações ...
+Informações da AMS do estado do AC salvas com sucesso no arquivo: ./info/ams/json/ams-AC.json
+Tempo total processando informações do estado do AC = 20.485s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do AL a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição AL = 23.518s
+Parseando html recuperado ...
+ARAPIRACA
+MACEIO
+SAO MIGUEL DOS CAMPOS
+Gerando arquivo JSON com as informações ...
+Informações da AMS do estado do AL salvas com sucesso no arquivo: ./info/ams/json/ams-AL.json
+Tempo total processando informações do estado do AL = 23.726s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do AM a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição AM = 21.643s
+Parseando html recuperado ...
+MANAUS
+Gerando arquivo JSON com as informações ...
+Informações da AMS do estado do AM salvas com sucesso no arquivo: ./info/ams/json/ams-AM.json
+Tempo total processando informações do estado do AM = 21.732s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do AP a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição AP = 20.392s
+Parseando html recuperado ...
+MACAPA
+Gerando arquivo JSON com as informações ...
+Informações da AMS do estado do AP salvas com sucesso no arquivo: ./info/ams/json/ams-AP.json
+Tempo total processando informações do estado do AP = 20.394s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do BA a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição BA = 35.454s
+Parseando html recuperado ...
+ALAGOINHAS
+CACHOEIRA
+CAMACARI
+CANDEIAS
+CARAVELAS
+CATU
+CONCEICAO DO JACUIPE
+CRUZ DAS ALMAS
+DIAS D' AVILA
+ENTRE RIOS
+ESPLANADA
+EUNAPOLIS
+FEIRA DE SANTANA
+ILHEUS
+IPIAU
+ITABUNA
+JEQUIE
+JUAZEIRO
+LAURO DE FREITAS
+MATA DE SAO JOAO
+MURITIBA
+POJUCA
+PORTO SEGURO
+SALVADOR
+SANTO AMARO
+SANTO ANTONIO DE JESUS
+SAO FELIX
+SAO FRANCISCO DO CONDE
+SAO SEBASTIAO DO PASSE
+SERRINHA
+SIMOES FILHO
+TEIXEIRA DE FREITAS
+VALENCA
+VITORIA DA CONQUISTA
+Gerando arquivo JSON com as informações ...
+Informações da AMS do estado do BA salvas com sucesso no arquivo: ./info/ams/json/ams-BA.json
+Tempo total processando informações do estado do BA = 39.767s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do CE a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição CE = 24.377s
+Parseando html recuperado ...
+ARACATI
+BARBALHA
+CAUCAIA
+CRATO
+FORTALEZA
+JUAZEIRO DO NORTE
+QUIXADA
+Gerando arquivo JSON com as informações ...
+Informações da AMS do estado do CE salvas com sucesso no arquivo: ./info/ams/json/ams-CE.json
+Tempo total processando informações do estado do CE = 24.54s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do DF a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição DF = 20.857s
+Parseando html recuperado ...
+BRASILIA
+Gerando arquivo JSON com as informações ...
+Informações da AMS do estado do DF salvas com sucesso no arquivo: ./info/ams/json/ams-DF.json
+Tempo total processando informações do estado do DF = 20.88s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do ES a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição ES = 29.873s
+Parseando html recuperado ...
+ANCHIETA
+ARACRUZ
+CACHOEIRO DO ITAPEMIRIM
+CARIACICA
+COLATINA
+CONCEICAO DA BARRA
+GUARAPARI
+ITAPEMIRIM
+LINHARES
+MARATAIZES
+NOVA VENECIA
+SAO MATEUS
+SERRA
+VILA VELHA
+VITORIA
+Gerando arquivo JSON com as informações ...
+Informações da AMS do estado do ES salvas com sucesso no arquivo: ./info/ams/json/ams-ES.json
+Tempo total processando informações do estado do ES = 30.076s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do GO a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição GO = 20.976s
+Parseando html recuperado ...
+ANAPOLIS
+FORMOSA
+GOIANIA
+MINEIROS
+NIQUELANDIA
+Gerando arquivo JSON com as informações ...
+Informações da AMS do estado do GO salvas com sucesso no arquivo: ./info/ams/json/ams-GO.json
+Tempo total processando informações do estado do GO = 20.992s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do MA a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição MA = 21.29s
+Parseando html recuperado ...
+ACAILANDIA
+IMPERATRIZ
+SAO LUIS
+Gerando arquivo JSON com as informações ...
+Informações da AMS do estado do MA salvas com sucesso no arquivo: ./info/ams/json/ams-MA.json
+Tempo total processando informações do estado do MA = 21.322s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do MG a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição MG = 27.528s
+Parseando html recuperado ...
+ARCOS
+BARBACENA
+BELO HORIZONTE
+BETIM
+CATAGUASES
+CONSELHEIRO LAFAIETE
+CONTAGEM
+CORONEL FABRICIANO
+CURVELO
+DIVINOPOLIS
+GOVERNADOR VALADARES
+IPATINGA
+ITABIRITO
+ITAJUBA
+ITAPECERICA
+ITAUNA
+JOAO MONLEVADE
+JUIZ DE FORA
+LAGOA SANTA
+MARIANA
+MATEUS LEME
+MONTES CLAROS
+MURIAE
+NOVA LIMA
+OURO PRETO
+PARA DE MINAS
+PATOS DE MINAS
+POUSO ALEGRE
+SABARA
+SAO JOAO DEL REI
+SAO LOURENCO
+SETE LAGOAS
+UBERABA
+UBERLANDIA
+VESPASIANO
+Gerando arquivo JSON com as informações ...
+Informações da AMS do estado do MG salvas com sucesso no arquivo: ./info/ams/json/ams-MG.json
+Tempo total processando informações do estado do MG = 28.581s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do MS a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição MS = 21.26s
+Parseando html recuperado ...
+CAMPO GRANDE
+CORUMBA
+DOURADOS
+TRES LAGOAS
+Gerando arquivo JSON com as informações ...
+Informações da AMS do estado do MS salvas com sucesso no arquivo: ./info/ams/json/ams-MS.json
+Tempo total processando informações do estado do MS = 21.271s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do MT a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição MT = 20.59s
+Parseando html recuperado ...
+CUIABA
+VARZEA GRANDE
+Gerando arquivo JSON com as informações ...
+Informações da AMS do estado do MT salvas com sucesso no arquivo: ./info/ams/json/ams-MT.json
+Tempo total processando informações do estado do MT = 20.6s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do PA a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição PA = 22.998s
+Parseando html recuperado ...
+ALTAMIRA
+ANANINDEUA
+BARCARENA
+BELEM
+MARABA
+SANTANA DO ARAGUAIA
+SANTAREM
+TUCURUI
+Gerando arquivo JSON com as informações ...
+Informações da AMS do estado do PA salvas com sucesso no arquivo: ./info/ams/json/ams-PA.json
+Tempo total processando informações do estado do PA = 23.07s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do PB a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição PB = 21.133s
+Parseando html recuperado ...
+CABEDELO
+CAMPINA GRANDE
+JOAO PESSOA
+Gerando arquivo JSON com as informações ...
+Informações da AMS do estado do PB salvas com sucesso no arquivo: ./info/ams/json/ams-PB.json
+Tempo total processando informações do estado do PB = 21.172s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do PE a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição PE = 23.175s
+Parseando html recuperado ...
+CARUARU
+JABOATAO DOS GUARARAPES
+OLINDA
+PAULISTA
+PETROLINA
+RECIFE
+Gerando arquivo JSON com as informações ...
+Informações da AMS do estado do PE salvas com sucesso no arquivo: ./info/ams/json/ams-PE.json
+Tempo total processando informações do estado do PE = 23.351s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do PI a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição PI = 20.927s
+Parseando html recuperado ...
+CAMPO MAIOR
+PARNAIBA
+TERESINA
+Gerando arquivo JSON com as informações ...
+Informações da AMS do estado do PI salvas com sucesso no arquivo: ./info/ams/json/ams-PI.json
+Tempo total processando informações do estado do PI = 20.935s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do PR a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição PR = 27.165s
+Parseando html recuperado ...
+ANTONINA
+ARAUCARIA
+CAMBE
+CAMPO LARGO
+CASCAVEL
+CURITIBA
+GUARAPUAVA
+IRATI
+LONDRINA
+MARINGA
+PARANAGUA
+PITANGA
+PONTA GROSSA
+ROLANDIA
+SAO JOSE DOS PINHAIS
+SAO MATEUS DO SUL
+UNIAO DA VITORIA
+Gerando arquivo JSON com as informações ...
+Informações da AMS do estado do PR salvas com sucesso no arquivo: ./info/ams/json/ams-PR.json
+Tempo total processando informações do estado do PR = 27.541s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do RJ a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição RJ = 58.267s
+Parseando html recuperado ...
+ANGRA DOS REIS
+ARARUAMA
+ARRAIAL DO CABO
+BARRA DO PIRAI
+BARRA MANSA
+BELFORD ROXO
+BOM JESUS DO ITABAPOANA
+CABO FRIO
+CACHOEIRAS DE MACACU
+CAMPOS DOS GOYTACAZES
+CASIMIRO DE ABREU
+CONCEICAO DE MACABU
+DUQUE DE CAXIAS
+GUAPIMIRIM
+ITABORAI
+ITAGUAI
+ITALVA
+ITAPERUNA
+MACAE
+MAGE
+MARICA
+MESQUITA
+MIGUEL PEREIRA
+MIRACEMA
+NATIVIDADE
+NILOPOLIS
+NITEROI
+NOVA FRIBURGO
+NOVA IGUACU
+PARACAMBI
+PARAIBA DO SUL
+PETROPOLIS
+PORCIUNCULA
+QUEIMADOS
+QUISSAMA
+RESENDE
+RIO BONITO
+RIO DAS OSTRAS
+RIO DE JANEIRO
+SANTO ANTONIO DE PADUA
+SAO FIDELIS
+SAO GONCALO
+SAO JOAO DA BARRA
+SAO JOAO DE MERITI
+SAO PEDRO DA ALDEIA
+SAQUAREMA
+TERESOPOLIS
+TRES RIOS
+VALENCA
+VASSOURAS
+VOLTA REDONDA
+Gerando arquivo JSON com as informações ...
+Informações da AMS do estado do RJ salvas com sucesso no arquivo: ./info/ams/json/ams-RJ.json
+Tempo total processando informações do estado do RJ = 68.583s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do RN a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição RN = 26.377s
+Parseando html recuperado ...
+ACU
+CAICO
+CEARA-MIRIM
+MACAIBA
+MACAU
+MOSSORO
+NATAL
+PARNAMIRIM
+SAO GONCALO DO AMARANTE
+Gerando arquivo JSON com as informações ...
+Informações da AMS do estado do RN salvas com sucesso no arquivo: ./info/ams/json/ams-RN.json
+Tempo total processando informações do estado do RN = 26.558s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do RO a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição RO = 20.556s
+Parseando html recuperado ...
+PORTO VELHO
+Gerando arquivo JSON com as informações ...
+Informações da AMS do estado do RO salvas com sucesso no arquivo: ./info/ams/json/ams-RO.json
+Tempo total processando informações do estado do RO = 20.56s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do RR a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição RR = 20.413s
+Parseando html recuperado ...
+BOA VISTA
+Gerando arquivo JSON com as informações ...
+Informações da AMS do estado do RR salvas com sucesso no arquivo: ./info/ams/json/ams-RR.json
+Tempo total processando informações do estado do RR = 20.414s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do RS a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição RS = 27.053s
+Parseando html recuperado ...
+ALVORADA
+BENTO GONCALVES
+CACHOEIRINHA
+CAMAQUA
+CANOAS
+ESTEIO
+FARROUPILHA
+GRAVATAI
+GUAIBA
+IJUI
+MONTENEGRO
+NOVO HAMBURGO
+OSORIO
+PASSO FUNDO
+PEDRO OSORIO
+PELOTAS
+PORTAO
+PORTO ALEGRE
+PORTO LUCENA
+RIO GRANDE
+SANTA MARIA
+SANTO ANTONIO DA PATRULHA
+SAO LEOPOLDO
+SAPUCAIA DO SUL
+TRAMANDAI
+VIAMAO
+Gerando arquivo JSON com as informações ...
+Informações da AMS do estado do RS salvas com sucesso no arquivo: ./info/ams/json/ams-RS.json
+Tempo total processando informações do estado do RS = 27.618s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do SC a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição SC = 23.874s
+Parseando html recuperado ...
+ARARANGUA
+BALNEARIO DE CAMBORIU
+BARRA VELHA
+BIGUACU
+BLUMENAU
+CACADOR
+CAMBORIU
+CANOINHAS
+CRICIUMA
+FLORIANOPOLIS
+GUARAMIRIM
+IMBITUBA
+ITAJAI
+JARAGUA DO SUL
+JOINVILLE
+LAGES
+LAGUNA
+NAVEGANTES
+PALHOCA
+PENHA
+PICARRAS
+PORTO UNIAO
+SAO FRANCISCO DO SUL
+SAO JOSE
+TUBARAO
+XANXERE
+Gerando arquivo JSON com as informações ...
+Informações da AMS do estado do SC salvas com sucesso no arquivo: ./info/ams/json/ams-SC.json
+Tempo total processando informações do estado do SC = 23.976s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do SE a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição SE = 28.321s
+Parseando html recuperado ...
+ARACAJU
+ESTANCIA
+ITABAIANA
+LAGARTO
+NOSSA SENHORA DO SOCORRO
+Gerando arquivo JSON com as informações ...
+Informações da AMS do estado do SE salvas com sucesso no arquivo: ./info/ams/json/ams-SE.json
+Tempo total processando informações do estado do SE = 28.53s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do SP a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição SP = 49.486s
+Parseando html recuperado ...
+AGUDOS
+AMERICANA
+AMPARO
+ARACATUBA
+ARARAQUARA
+ARTUR NOGUEIRA
+ATIBAIA
+BARIRI
+BARRETOS
+BARUERI
+BAURU
+BOITUVA
+BRAGANCA PAULISTA
+CACAPAVA
+CAMPINAS
+CARAGUATATUBA
+CARAPICUIBA
+CASA BRANCA
+COSMOPOLIS
+COTIA
+CUBATAO
+DIADEMA
+GUARA
+GUARAREMA
+GUARATINGUETA
+GUARUJA
+GUARULHOS
+ILHABELA
+INDAIATUBA
+ITANHAEM
+ITAPIRA
+JACAREI
+JANDIRA
+JUNDIAI
+LIMEIRA
+LINS
+LORENA
+MAUA
+MOGI DAS CRUZES
+MONTE MOR
+OSASCO
+OURINHOS
+PARAIBUNA
+PAULINIA
+PERUIBE
+PIRASSUNUNGA
+PRAIA GRANDE
+PRESIDENTE PRUDENTE
+RIBEIRAO PIRES
+RIBEIRAO PRETO
+RIO CLARO
+SANTA BARBARA D'OESTE
+SANTO ANDRE
+SANTOS
+SAO BERNARDO DO CAMPO
+SAO CAETANO DO SUL
+SAO JOSE DO RIO PRETO
+SAO JOSE DOS CAMPOS
+SAO PAULO
+SAO SEBASTIAO
+SAO VICENTE
+SERTAOZINHO
+SOROCABA
+SUMARE
+SUZANO
+TAUBATE
+TREMEMBE
+VALINHOS
+VINHEDO
+VOTORANTIM
+Gerando arquivo JSON com as informações ...
+Informações da AMS do estado do SP salvas com sucesso no arquivo: ./info/ams/json/ams-SP.json
+Tempo total processando informações do estado do SP = 57.472s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do TO a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição TO = 20.496s
+Parseando html recuperado ...
+PALMAS
+Gerando arquivo JSON com as informações ...
+Informações da AMS do estado do TO salvas com sucesso no arquivo: ./info/ams/json/ams-TO.json
+Tempo total processando informações do estado do TO = 20.497s
+
+Data Fim: Segunda-feira, 22 de Agosto de 2011 - 23:09:41
+########################## Informações obtidas com sucesso ##########################
