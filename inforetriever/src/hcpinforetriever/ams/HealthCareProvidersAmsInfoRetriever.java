@@ -37,6 +37,7 @@ public class HealthCareProvidersAmsInfoRetriever {
 		}
 		pathPrefix += amsFilePrefix;
 		
+		String filePath = null;
 		try{			
 			System.out.println("#################### Obtendo informações dos credenciados da AMS ####################");			
 			System.out.println("Data Início: " +  getStringPresentDate() +"\n");
@@ -50,7 +51,7 @@ public class HealthCareProvidersAmsInfoRetriever {
 					System.out.println("-------------------------------------------------------------------------------------");
 				}
 								
-				String filePath = pathPrefix + state;
+				filePath = pathPrefix + state;
 				
 				System.out.println("Requisitando informações dos credenciados da AMS do estado do " + state + " a partir do site: " + HealthCareProvidersAmsOnlineInformationExtractor.buscaAmsUrl);
 				double iniTime = (double) System.currentTimeMillis();
@@ -80,7 +81,12 @@ public class HealthCareProvidersAmsInfoRetriever {
 				
 				firstState = false;
 			}
-		}catch(Throwable e){
+		}
+		catch(FileNotFoundException e){
+			String msg = "Erro criando arquivo: " + filePath;
+			throw new AmsInfoRetrieveException(msg, e);
+		}
+		catch(Throwable e){
 			String msg = "Erro recuperando e/ou salvando informações da AMS: " + e.getMessage();
 			throw new AmsInfoRetrieveException(msg, e);
 		}
@@ -97,6 +103,7 @@ public class HealthCareProvidersAmsInfoRetriever {
 	}
 
 	public static void main(String[] args) {
+		
 		StringBuilder examples = new StringBuilder("Exemplos: \n");
 		examples.append("\tRecuperando informações do CE e salvando no diretório de trabalho: java -jar 'ArquivoJarExecutavel' CE\n");
 		examples.append("\tRecuperando informações de todos os estados e salvando no diretório de trabalho: java -jar 'ArquivoJarExecutavel' -a\n");

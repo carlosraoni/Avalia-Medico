@@ -94,8 +94,9 @@ public class HealthCareProvidersAmsHtmlParser implements HealthCareProvidersPars
 	}
 
 	private void parseTable(Set<HealthCareProvider> providers, String city,	String table, HealthCareProviderType type) {
-		String evenRowHeader = "<tr bgcolor=\"#FFFFFF\">";
-		String oddRowHeader = "<tr bgcolor=\"#EEEEEE\">";
+		String spacePadding = (type == HealthCareProviderType.ENTITY) ? " " : "";
+		String evenRowHeader = "<tr bgcolor=\"#FFFFFF\" style=\"padding:0.4em\""+ spacePadding +">";
+		String oddRowHeader = "<tr bgcolor=\"#e1f3db\" style=\"padding:0.4em\""+spacePadding+">";
 		
 		parseRowsWithHeaderOf(providers, table, evenRowHeader, city, type);
 		parseRowsWithHeaderOf(providers, table, oddRowHeader, city, type);
@@ -173,5 +174,4 @@ public class HealthCareProvidersAmsHtmlParser implements HealthCareProvidersPars
 		this.html = html;
 	}
 	
-
 }
