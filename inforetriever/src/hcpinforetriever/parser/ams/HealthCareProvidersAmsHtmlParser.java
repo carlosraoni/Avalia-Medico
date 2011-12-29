@@ -146,7 +146,7 @@ public class HealthCareProvidersAmsHtmlParser implements HealthCareProvidersPars
 			String field = row.substring(beginIndexField, endIndexField).trim().replaceAll("\\s+", " ");
 			switch (fieldIndex) {
 			case 0:	builder.name(field); break;
-			case 1:	builder.location(field); break;
+			case 1:	builder.district(field); break;
 			case 2:	builder.adress(field); break;
 			case 3:	builder.zipCode(field); break;
 			case 4:	builder.phone(field); break;

@@ -85,7 +85,7 @@ public class HealthCareProvider{
 		private void setDistrict(String district) {
 			this.district = district;
 		}
-		public HealthCareProviderBuilder location(String district) {
+		public HealthCareProviderBuilder district(String district) {
 			setDistrict(district);
 			return this;			
 		}
