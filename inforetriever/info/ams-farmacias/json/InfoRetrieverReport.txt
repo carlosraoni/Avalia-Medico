@@ -1,0 +1,688 @@
+#################### Obtendo informações das fármacias da AMS ####################
+Data Início: Quinta-feira, 29 de Dezembro de 2011 - 15:10:45
+
+Requisitando informações dos credenciados da AMS do estado do AC a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição AC = 11.247s
+Parseando html recuperado ...
+Gerando arquivo JSON com as informações ...
+Informações das fármacias da AMS do estado do AC salvas com sucesso no arquivo: ./info/ams-farmacias/json/ams-farmacias-AC.json
+Tempo total processando informações do estado do AC = 11.254s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do AL a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição AL = 11.088s
+Parseando html recuperado ...
+ARAPIRACA
+MACEIO
+Gerando arquivo JSON com as informações ...
+Informações das fármacias da AMS do estado do AL salvas com sucesso no arquivo: ./info/ams-farmacias/json/ams-farmacias-AL.json
+Tempo total processando informações do estado do AL = 11.107s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do AM a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição AM = 11.078s
+Parseando html recuperado ...
+MANACAPURU
+MANAUS
+Gerando arquivo JSON com as informações ...
+Informações das fármacias da AMS do estado do AM salvas com sucesso no arquivo: ./info/ams-farmacias/json/ams-farmacias-AM.json
+Tempo total processando informações do estado do AM = 11.087s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do AP a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição AP = 10.959s
+Parseando html recuperado ...
+Gerando arquivo JSON com as informações ...
+Informações das fármacias da AMS do estado do AP salvas com sucesso no arquivo: ./info/ams-farmacias/json/ams-farmacias-AP.json
+Tempo total processando informações do estado do AP = 10.96s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do BA a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição BA = 11.38s
+Parseando html recuperado ...
+ALAGOINHAS
+AMELIA RODRIGUES
+BARREIRAS
+CAMACARI
+CANDEIAS
+CATU
+ENTRE RIOS
+FEIRA DE SANTANA
+ILHEUS
+ITABUNA
+JEQUIE
+JUAZEIRO
+LAURO DE FREITAS
+MADRE DE DEUS
+MATA DE SAO JOAO
+PAULO AFONSO
+POJUCA
+SALVADOR
+SANTO AMARO
+SAO FRANCISCO DO CONDE
+SAO SEBASTIAO DO PASSE
+SERRINHA
+SIMOES FILHO
+TEIXEIRA DE FREITAS
+UBAITABA
+VERA CRUZ
+VITORIA DA CONQUISTA
+Gerando arquivo JSON com as informações ...
+Informações das fármacias da AMS do estado do BA salvas com sucesso no arquivo: ./info/ams-farmacias/json/ams-farmacias-BA.json
+Tempo total processando informações do estado do BA = 11.445s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do CE a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição CE = 11.263s
+Parseando html recuperado ...
+ARACATI
+CAUCAIA
+CRATO
+FORTALEZA
+IGUATU
+ITAPIPOCA
+JUAZEIRO DO NORTE
+MARACANAU
+MARANGUAPE
+PACAJUS
+QUIXADA
+SOBRAL
+TAUA
+Gerando arquivo JSON com as informações ...
+Informações das fármacias da AMS do estado do CE salvas com sucesso no arquivo: ./info/ams-farmacias/json/ams-farmacias-CE.json
+Tempo total processando informações do estado do CE = 11.293s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do DF a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição DF = 10.968s
+Parseando html recuperado ...
+BRASILIA
+Gerando arquivo JSON com as informações ...
+Informações das fármacias da AMS do estado do DF salvas com sucesso no arquivo: ./info/ams-farmacias/json/ams-farmacias-DF.json
+Tempo total processando informações do estado do DF = 10.971s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do ES a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição ES = 11.192s
+Parseando html recuperado ...
+ARACRUZ
+CACHOEIRO DE ITAPEMIRIM
+CARIACICA
+COLATINA
+GUARAPARI
+JOAO NEIVA
+LINHARES
+SAO MATEUS
+SERRA
+VILA VELHA
+VITORIA
+Gerando arquivo JSON com as informações ...
+Informações das fármacias da AMS do estado do ES salvas com sucesso no arquivo: ./info/ams-farmacias/json/ams-farmacias-ES.json
+Tempo total processando informações do estado do ES = 11.215s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do GO a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição GO = 11.087s
+Parseando html recuperado ...
+ANAPOLIS
+CATALAO
+GOIANIA
+ITUMBIARA
+JATAI
+RIO VERDE
+VALPARAISO DE GOIAS
+Gerando arquivo JSON com as informações ...
+Informações das fármacias da AMS do estado do GO salvas com sucesso no arquivo: ./info/ams-farmacias/json/ams-farmacias-GO.json
+Tempo total processando informações do estado do GO = 11.099s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do MA a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição MA = 11.088s
+Parseando html recuperado ...
+CAXIAS
+IMPERATRIZ
+SAO LUIS
+TIMON
+Gerando arquivo JSON com as informações ...
+Informações das fármacias da AMS do estado do MA salvas com sucesso no arquivo: ./info/ams-farmacias/json/ams-farmacias-MA.json
+Tempo total processando informações do estado do MA = 11.1s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do MG a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição MG = 11.669s
+Parseando html recuperado ...
+AIMORES
+ALFENAS
+ARAGUARI
+ARAXA
+BARBACENA
+BELO HORIZONTE
+BETIM
+BOA ESPERANCA
+CARATINGA
+CONTAGEM
+CORONEL FABRICIANO
+DIVINOPOLIS
+FORMIGA
+GOVERNADOR VALADARES
+GUAXUPE
+IBITURUNA
+IPATINGA
+ITAJUBA
+ITAMBACURI
+ITAU DE MINAS
+ITAUNA
+ITUIUTABA
+JOAO MONLEVADE
+JOAO PINHEIRO
+JUIZ DE FORA
+LAGOA SANTA
+LAVRAS
+MACHADO
+MANHUACU
+MATEUS LEME
+MONTES CLAROS
+MURIAE
+NOVA LIMA
+PARA DE MINAS
+PARACATU
+PASSOS
+PATOS DE MINAS
+PATROCINIO
+PEDRO LEOPOLDO
+PERDOES
+PITANGUI
+POCOS DE CALDAS
+POUSO ALEGRE
+SABARA
+SANTA LUZIA
+SAO SEBASTIAO DO PARAISO
+TEOFILO OTONI
+TIMOTEO
+UBERABA
+UBERLANDIA
+VARGINHA
+Gerando arquivo JSON com as informações ...
+Informações das fármacias da AMS do estado do MG salvas com sucesso no arquivo: ./info/ams-farmacias/json/ams-farmacias-MG.json
+Tempo total processando informações do estado do MG = 11.718s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do MS a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição MS = 10.958s
+Parseando html recuperado ...
+CAMPO GRANDE
+TRES LAGOAS
+Gerando arquivo JSON com as informações ...
+Informações das fármacias da AMS do estado do MS salvas com sucesso no arquivo: ./info/ams-farmacias/json/ams-farmacias-MS.json
+Tempo total processando informações do estado do MS = 10.961s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do MT a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição MT = 11.016s
+Parseando html recuperado ...
+CUIABA
+VARZEA GRANDE
+Gerando arquivo JSON com as informações ...
+Informações das fármacias da AMS do estado do MT salvas com sucesso no arquivo: ./info/ams-farmacias/json/ams-farmacias-MT.json
+Tempo total processando informações do estado do MT = 11.021s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do PA a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição PA = 14.241s
+Parseando html recuperado ...
+ABAETETUBA
+ANANINDEUA
+BARCARENA
+BELEM
+BRAGANCA
+CAPANEMA
+CASTANHAL
+MARABA
+MONTE ALEGRE
+PARAGOMINAS
+SALINOPOLIS
+SANTA ISABEL DO PARA
+SANTAREM
+Gerando arquivo JSON com as informações ...
+Informações das fármacias da AMS do estado do PA salvas com sucesso no arquivo: ./info/ams-farmacias/json/ams-farmacias-PA.json
+Tempo total processando informações do estado do PA = 14.259s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do PB a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição PB = 13.135s
+Parseando html recuperado ...
+BAYEUX
+CABEDELO
+CAMPINA GRANDE
+JOAO PESSOA
+Gerando arquivo JSON com as informações ...
+Informações das fármacias da AMS do estado do PB salvas com sucesso no arquivo: ./info/ams-farmacias/json/ams-farmacias-PB.json
+Tempo total processando informações do estado do PB = 13.141s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do PE a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição PE = 11.189s
+Parseando html recuperado ...
+CABO DE SANTO AGOSTINHO
+CARUARU
+GARANHUNS
+IPOJUCA
+JABOATAO DOS GUARARAPES
+OLINDA
+PAULISTA
+PETROLINA
+RECIFE
+SANTA CRUZ DO CAPIBARIBE
+Gerando arquivo JSON com as informações ...
+Informações das fármacias da AMS do estado do PE salvas com sucesso no arquivo: ./info/ams-farmacias/json/ams-farmacias-PE.json
+Tempo total processando informações do estado do PE = 11.194s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do PI a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição PI = 11.07s
+Parseando html recuperado ...
+PARNAIBA
+TERESINA
+Gerando arquivo JSON com as informações ...
+Informações das fármacias da AMS do estado do PI salvas com sucesso no arquivo: ./info/ams-farmacias/json/ams-farmacias-PI.json
+Tempo total processando informações do estado do PI = 11.074s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do PR a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição PR = 11.514s
+Parseando html recuperado ...
+APUCARANA
+ARAPONGAS
+ARAUCARIA
+ASSIS CHATEAUBRIAND
+BELA VISTA DO PARAISO
+CAMBE
+CAMPO MOURAO
+CARAMBEI
+CASCAVEL
+CASTRO
+CIANORTE
+COLOMBO
+CURITIBA
+FOZ DO IGUACU
+GUARAPUAVA
+IBIPORA
+IPORA
+IVAIPORA
+JESUITAS
+LONDRINA
+MANDAGUARI
+MARECHAL CANDIDO RONDON
+MARINGA
+MATELANDIA
+MEDIANEIRA
+NOVA ESPERANCA
+PARANAGUA
+PARANAVAI
+PATO BRANCO
+PINHAIS
+PIRAQUARA
+PITANGA
+PONTA GROSSA
+REALEZA
+RIO NEGRO
+ROLANDIA
+SAO JOSE DOS PINHAIS
+SAO MATEUS DO SUL
+SARANDI
+TELEMACO BORBA
+TOLEDO
+UMUARAMA
+Gerando arquivo JSON com as informações ...
+Informações das fármacias da AMS do estado do PR salvas com sucesso no arquivo: ./info/ams-farmacias/json/ams-farmacias-PR.json
+Tempo total processando informações do estado do PR = 11.552s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do RJ a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição RJ = 11.467s
+Parseando html recuperado ...
+ANGRA DOS REIS
+ARARUAMA
+ARMACAO DOS BUZIOS
+ARRAIAL DO CABO
+BARRA DO PIRAI
+BARRA MANSA
+BELFORD ROXO
+CABO FRIO
+CAMPOS DOS GOYTACAZES
+CONCEICAO DE MACABU
+DUQUE DE CAXIAS
+ITABORAI
+ITAGUAI
+ITAPERUNA
+MACAE
+MARICA
+MESQUITA
+NILOPOLIS
+NITEROI
+NOVA FRIBURGO
+NOVA IGUACU
+PARACAMBI
+PARAIBA DO SUL
+PETROPOLIS
+RESENDE
+RIO DAS OSTRAS
+RIO DE JANEIRO
+SAO FIDELIS
+SAO GONCALO
+SAO JOAO DA BARRA
+SAO JOAO DE MERITI
+SAO PEDRO DA ALDEIA
+SAQUAREMA
+TERESOPOLIS
+TRES RIOS
+VALENCA
+VASSOURAS
+VOLTA REDONDA
+Gerando arquivo JSON com as informações ...
+Informações das fármacias da AMS do estado do RJ salvas com sucesso no arquivo: ./info/ams-farmacias/json/ams-farmacias-RJ.json
+Tempo total processando informações do estado do RJ = 11.504s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do RN a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição RN = 11.243s
+Parseando html recuperado ...
+ACU
+MACAU
+MOSSORO
+NATAL
+PARNAMIRIM
+Gerando arquivo JSON com as informações ...
+Informações das fármacias da AMS do estado do RN salvas com sucesso no arquivo: ./info/ams-farmacias/json/ams-farmacias-RN.json
+Tempo total processando informações do estado do RN = 11.25s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do RO a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição RO = 11.049s
+Parseando html recuperado ...
+PORTO VELHO
+Gerando arquivo JSON com as informações ...
+Informações das fármacias da AMS do estado do RO salvas com sucesso no arquivo: ./info/ams-farmacias/json/ams-farmacias-RO.json
+Tempo total processando informações do estado do RO = 11.05s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do RR a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição RR = 13.978s
+Parseando html recuperado ...
+Gerando arquivo JSON com as informações ...
+Informações das fármacias da AMS do estado do RR salvas com sucesso no arquivo: ./info/ams-farmacias/json/ams-farmacias-RR.json
+Tempo total processando informações do estado do RR = 13.978s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do RS a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição RS = 11.642s
+Parseando html recuperado ...
+ALEGRETE
+ALVORADA
+ARROIO DO SAL
+BAGE
+BENTO GONCALVES
+CACHOEIRA DO SUL
+CACHOEIRINHA
+CAMAQUA
+CAMPO BOM
+CANELA
+CANOAS
+CAPAO DA CANOA
+CARAZINHO
+CAXIAS DO SUL
+CHARQUEADAS
+CIDREIRA
+CRUZ ALTA
+DOM PEDRITO
+ERECHIM
+ESTANCIA VELHA
+ESTEIO
+ESTRELA
+FARROUPILHA
+FREDERICO WESTPHALEN
+GARIBALDI
+GRAMADO
+GRAVATAI
+IJUI
+IMBE
+ITAQUI
+JAGUARAO
+LAJEADO
+MARAU
+MONTENEGRO
+NOVO HAMBURGO
+OSORIO
+PALMEIRA DAS MISSOES
+PAROBE
+PASSO FUNDO
+PELOTAS
+PORTO ALEGRE
+QUARAI
+RIO GRANDE
+RIO PARDO
+ROSARIO DO SUL
+SANTA CRUZ DO SUL
+SANTA MARIA
+SANTA ROSA
+SANTA VITORIA DO PALMAR
+SANTANA DO LIVRAMENTO
+SANTIAGO
+SANTO ANGELO
+SAO BORJA
+SAO GABRIEL
+SAO LEOPOLDO
+SAO LOURENCO DO SUL
+SAO LUIZ GONZAGA
+SAPIRANGA
+SAPUCAIA DO SUL
+TAPES
+TAQUARA
+TORRES
+TRAMANDAI
+TRES DE MAIO
+TRES PASSOS
+URUGUAIANA
+VACARIA
+VIAMAO
+XANGRI-LA
+Gerando arquivo JSON com as informações ...
+Informações das fármacias da AMS do estado do RS salvas com sucesso no arquivo: ./info/ams-farmacias/json/ams-farmacias-RS.json
+Tempo total processando informações do estado do RS = 11.664s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do SC a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição SC = 11.296s
+Parseando html recuperado ...
+BALNEARIO CAMBORIU
+BLUMENAU
+CANOINHAS
+CHAPECO
+CRICIUMA
+FLORIANOPOLIS
+GAROPABA
+GASPAR
+GUARAMIRIM
+ICARA
+ITAJAI
+JARAGUA DO SUL
+JOINVILLE
+LAGES
+LAGUNA
+MAFRA
+PALHOCA
+RIO DO SUL
+RIO NEGRINHO
+SAO BENTO DO SUL
+SAO FRANCISCO DO SUL
+SAO JOSE
+TIMBO
+TUBARAO
+VIDEIRA
+Gerando arquivo JSON com as informações ...
+Informações das fármacias da AMS do estado do SC salvas com sucesso no arquivo: ./info/ams-farmacias/json/ams-farmacias-SC.json
+Tempo total processando informações do estado do SC = 11.306s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do SE a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição SE = 11.172s
+Parseando html recuperado ...
+ARACAJU
+NOSSA SENHORA DO SOCORRO
+SAO CRISTOVAO
+Gerando arquivo JSON com as informações ...
+Informações das fármacias da AMS do estado do SE salvas com sucesso no arquivo: ./info/ams-farmacias/json/ams-farmacias-SE.json
+Tempo total processando informações do estado do SE = 11.177s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do SP a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição SP = 12.285s
+Parseando html recuperado ...
+ADAMANTINA
+AMERICANA
+ANDRADINA
+ARACATUBA
+ARARAQUARA
+ARARAS
+ARTUR NOGUEIRA
+ASSIS
+ATIBAIA
+AURIFLAMA
+AVARE
+BARIRI
+BARRETOS
+BARUERI
+BASTOS
+BAURU
+BEBEDOURO
+BENTO DE ABREU
+BIRIGUI
+BOTUCATU
+BRAGANCA PAULISTA
+CACAPAVA
+CACHOEIRA PAULISTA
+CAMPINAS
+CANAS
+CARAGUATATUBA
+CARAPICUIBA
+CATANDUVA
+CHAVANTES
+COSMOPOLIS
+COTIA
+CRISTAIS PAULISTA
+CRUZEIRO
+CUBATAO
+DIADEMA
+DRACENA
+EMBU
+FERNANDOPOLIS
+FERRAZ DE VASCONCELOS
+FLORIDA PAULISTA
+FRANCA
+GUAPIACU
+GUARARAPES
+GUARATINGUETA
+GUARUJA
+GUARULHOS
+HOLAMBRA
+IACRI
+IBITINGA
+IBIUNA
+ILHA SOLTEIRA
+ILHABELA
+INDAIATUBA
+ITABERA
+ITAPECERICA DA SERRA
+ITAPETININGA
+ITAPEVI
+ITAQUAQUECETUBA
+ITU
+ITUVERAVA
+JACAREI
+JAGUARIUNA
+JALES
+JAU
+JULIO MESQUITA
+JUNDIAI
+LEME
+LENCOIS PAULISTA
+LIMEIRA
+LINS
+LORENA
+MAIRINQUE
+MARILIA
+MATAO
+MAUA
+MIRANDOPOLIS
+MOGI DAS CRUZES
+MONTE ALTO
+MONTE APRAZIVEL
+MURUTINGA DO SUL
+NHANDEARA
+NOVO HORIZONTE
+OLIMPIA
+ORLANDIA
+OSASCO
+OURINHOS
+PALMEIRA D OESTE
+PATROCINIO PAULISTA
+PAULINIA
+PEDREGULHO
+PEREIRA BARRETO
+PERUIBE
+PINDAMONHANGABA
+PIRACICABA
+PIRANGI
+POA
+POMPEIA
+PORTO FERREIRA
+POTIRENDABA
+PRADOPOLIS
+PRAIA GRANDE
+PRESIDENTE PRUDENTE
+RIBEIRAO PIRES
+RIBEIRAO PRETO
+RINOPOLIS
+SALTO
+SANTA FE DO SUL
+SANTO ANDRE
+SANTOS
+SAO BERNARDO DO CAMPO
+SAO CAETANO DO SUL
+SAO CARLOS
+SAO JOAQUIM DA BARRA
+SAO JOSE DO RIO PRETO
+SAO JOSE DOS CAMPOS
+SAO PAULO
+SAO ROQUE
+SAO SEBASTIAO
+SAO VICENTE
+SEVERINIA
+SOROCABA
+SUMARE
+SUZANO
+TABOAO DA SERRA
+TANABI
+TAQUARITINGA
+TATUI
+TAUBATE
+TREMEMBE
+VALINHOS
+VARGEM GRANDE DO SUL
+VINHEDO
+VOTUPORANGA
+Gerando arquivo JSON com as informações ...
+Informações das fármacias da AMS do estado do SP salvas com sucesso no arquivo: ./info/ams-farmacias/json/ams-farmacias-SP.json
+Tempo total processando informações do estado do SP = 12.361s
+Dormindo por 30 segundos.
+-------------------------------------------------------------------------------------
+Requisitando informações dos credenciados da AMS do estado do TO a partir do site: http://busca-ams.petrobras.com.br/buscaams/busca.do
+Tempo total de requisição TO = 12.993s
+Parseando html recuperado ...
+PALMAS
+Gerando arquivo JSON com as informações ...
+Informações das fármacias da AMS do estado do TO salvas com sucesso no arquivo: ./info/ams-farmacias/json/ams-farmacias-TO.json
+Tempo total processando informações do estado do TO = 12.994s
+
+Data Fim: Quinta-feira, 29 de Dezembro de 2011 - 15:28:59
+########################## Informações obtidas com sucesso ##########################
