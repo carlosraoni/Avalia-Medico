@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="create_run_jar" name="Create Runnable Jar for Project Avalia-Medico">
+    <!--this file was created by Eclipse Runnable JAR Export Wizard-->
+    <!--ANT 1.7 is required                                        -->
+    <target name="create_run_jar">
+        <jar destfile="/home/raoni/workspaceGitHub/Avalia-Medico/inforetriever/AmsPharmacysInfoRetriever.jar" filesetmanifest="mergewithoutmain">
+            <manifest>
+                <attribute name="Main-Class" value="hcpinforetriever.ams.PharmacysAmsInfoRetriever"/>
+                <attribute name="Class-Path" value="."/>
+            </manifest>
+            <fileset dir="/home/raoni/workspaceGitHub/Avalia-Medico/inforetriever/target"/>
+        </jar>
+    </target>
+</project>
