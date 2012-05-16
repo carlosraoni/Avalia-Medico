@@ -23,6 +23,7 @@ public class PharmacysAmsInfoRetriever {
 	private static final String amsFilePrefix = "ams-farmacias-";
 	private static final String jsonExtension = ".json";
 	
+	
 	private void saveStringInFile(String str, String filePath) throws FileNotFoundException{
 		PrintStream file = new PrintStream(filePath);
 		file.println(str);
